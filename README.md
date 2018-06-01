@@ -30,3 +30,4 @@ entry: [
     path.join(__dirname, 'app/router/index.js')
 ],
 ```
+(webpack版本太低，导致很多bug。。)
